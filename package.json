@@ -1,0 +1,19 @@
+{
+  "name": "integration-radar-cidadao",
+  "version": "1.0.0",
+  "description": "Hello, to facilitate their integration to the portal.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caionorder/integration-radar-cidadao.git"
+  },
+  "author": "Caio Norder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caionorder/integration-radar-cidadao/issues"
+  },
+  "homepage": "https://github.com/caionorder/integration-radar-cidadao#readme"
+}

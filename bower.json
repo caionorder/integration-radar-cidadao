@@ -1,0 +1,22 @@
+{
+  "name": "Integration Radar Cidadão",
+  "homepage": "https://github.com/caionorder/integration-radar-cidadao",
+  "authors": [
+    "Caio Norder <caio@caionorder.com>"
+  ],
+  "description": "",
+  "main": "app.js",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
