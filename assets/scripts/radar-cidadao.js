@@ -9,7 +9,7 @@ $app.loadJson = function(){
 		itens = [];
 	}
 
-	$.getJSON("./api/info.json", function(){
+	$.getJSON("./api/json/info.json", function(){
 		console.log('loaded');
 	})
 	.done(function(data){
